@@ -1,0 +1,47 @@
+
+      h1 {
+        color: rgb(25, 100, 48);
+        background-color: blanchedalmond;
+        height: 80px;
+        width: 100%;
+      }
+      p {
+        color: rgb(104, 11, 11);
+        font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+        text-align: justify;
+      }
+      #first {
+        color: darkmagenta;
+        background-color: darkseagreen;
+        font-size: large;
+      }
+      .animal {
+        color: rgb(250, 203, 12);
+        size: 500px;
+      }
+      .bird {
+        color: mediumseagreen;
+        size: larger;
+      }
+      h2 {
+        color: hsl(0, 0%, 0%);
+        
+      }
+      h4 {
+        text-align: center;
+        
+      }
+      img {
+        width: 40%;
+        height: 40%;
+      }
+      .blog {
+        background-color: rgb(237, 233, 233);
+        border: 5px rgb(71, 12, 209) solid;
+        margin: 5px;
+        border-radius: 4px;
+        padding: 10px;
+      display: inline-block;
+        width: 30%;
+       
+      }
